@@ -1,5 +1,9 @@
 # NCAT
 
+
+## ${\color{red}This \space version \space of \space project \space is \space obsolete. \space I \space moved \space project \space to \space Teensy \space 4 \space MCU: }$
+## https://github.com/nathalislight/Teensy-4-NESCAT-Emulator-part-of-NCAT-
+
 NEW: (micro) μNCAT SYSTEM 1.0 for ESP32S3 LILYGO T-QT
  
 <a href="https://github.com/ncat-system/micro-NCAT-LITE/">https://github.com/ncat-system/micro-NCAT-LITE</a>
